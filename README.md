@@ -10,5 +10,5 @@ A custom CNN model was built and trained on the very popular MNIST dataset and f
 
 The notebook file in the repository was written using Python 3.11.9, as versions of Python above 3.12 are not compatible with the Tensorflow library, which is implemented in this project. Other dependencies can be found in the requirements.txt file in this repository and can be run using the command
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
